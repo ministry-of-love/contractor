@@ -1,0 +1,12 @@
+[Core]
+module = contractor
+name = contractor
+
+[Documentation]
+description = hax the contracts
+
+[Python]
+version = 3
+
+[Errbot]
+
